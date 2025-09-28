@@ -15,10 +15,19 @@
 ---
 
 ## 📂 Proyectos Destacados  
-- 🛒 **Don Jacobo E-commerce** – Prototipo de tienda online con React + Tailwind  
-- 🎓 **UTS Site** – Sitio web académico responsive  
-- 🧾 **Hoja de Vida Digital** – Portafolio desplegado en AWS  
-- 📊 **CRM Fullstack (en desarrollo)** – Proyecto con React + Next.js + integración en la nube  
+
+🛒 [**Don Jacobo E-commerce**](https://github.com/tuusuario/don-jacobo-ecommerce)  
+*Prototipo de tienda online con React + Tailwind. Diseño responsive y catálogo de productos.*  
+
+🎓 [**UTS Site**](https://github.com/tuusuario/uts-site)  
+*Sitio académico responsive construido con React y Tailwind.*  
+
+🧾 [**Hoja de Vida Digital**](https://github.com/tuusuario/hoja-de-vida-digital)  
+*Portafolio desplegado en AWS para mostrar perfil profesional y proyectos.*  
+
+📊 [**CRM Fullstack (en desarrollo)**](https://github.com/tuusuario/crm-fullstack)  
+*Proyecto personal integrando React + Next.js con backend y despliegue en la nube.*  
+
 
 ---
 
