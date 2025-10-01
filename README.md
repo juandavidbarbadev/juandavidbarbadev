@@ -1,50 +1,25 @@
 # 👋 Hola, soy Juan David Barba  
 
-🎓 Estudiante de **Ingeniería en Sistemas (6° semestre)** en las Unidades Tecnológicas de Santander (UTS).  
-💻 Apasionado por el **desarrollo web** y en proceso de convertirme en **Front-End Developer Junior**.  
-🚀 Enfocado en aprender, mejorar cada día y aportar valor en proyectos reales.  
+🎓 Estudiante de Ingeniería en Sistemas (6° semestre) en las UTS.  
+💻 Apasionado por el **desarrollo web** con experiencia en proyectos personales y académicos.  
 
----
+## 🚀 Tecnologías que manejo
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
+- **Backend / Full Stack:** Node.js, Next.js (aprendiendo)  
+- **Cloud:** AWS (S3, EC2 básico)  
+- **Herramientas:** Git, GitHub  
 
-## 🛠️ Tecnologías y Herramientas  
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
-- **Backend (básico):** Node.js, AWS (S3, EC2)  
-- **Control de versiones:** Git, GitHub  
-- **Otros:** Diseño responsive, buenas prácticas de código, lógica de programación  
+## 📂 Proyectos destacados
+- **UTS Site** – Plataforma académica responsive con React y TailwindCSS  
+- **Don Jacobo** – Prototipo de e-commerce  
+- **CV Digital** – Portafolio desplegado en la nube con AWS  
+- **CRM Full Stack (en desarrollo)** – Integrando Next.js y React  
+- **Sistema de gestión de archivos (en progreso)** – Proyecto práctico full stack  
 
----
+## 📑 Respaldo profesional
+Cuento con una **carta de recomendación** de mi profesor **Vermen Ayala**, profesional con más de 15 años de experiencia en proyectos de desarrollo web y cloud computing.  
+Este respaldo certifica mis competencias técnicas y blandas, y refuerza mi preparación para desempeñarme como practicante o junior developer.  
 
-## 📂 Proyectos Destacados  
-
-🛒 [**Don Jacobo E-commerce**](https://github.com/tuusuario/don-jacobo-ecommerce)  
-*Prototipo de tienda online con React + Tailwind. Diseño responsive y catálogo de productos.*  
-
-🎓 [**UTS Site**](https://github.com/tuusuario/uts-site)  
-*Sitio académico responsive construido con React y Tailwind.*  
-
-🧾 [**Hoja de Vida Digital**](https://github.com/tuusuario/hoja-de-vida-digital)  
-*Portafolio desplegado en AWS para mostrar perfil profesional y proyectos.*  
-
-📊 [**CRM Fullstack (en desarrollo)**](https://github.com/tuusuario/crm-fullstack)  
-*Proyecto personal integrando React + Next.js con backend y despliegue en la nube.*  
-
-
----
-
-## 🌱 Actualmente aprendiendo  
-- Next.js (SSR, rutas dinámicas)  
-- Integración Frontend + Backend (fullstack)  
-- Patrones de diseño y mejores prácticas en desarrollo web  
-
----
-
-## 🤝 Busco oportunidades como  
-- **Practicante en desarrollo web**  
-- **Front-End Developer Junior**  
-
----
-
-## 📫 Contáctame  
-- 📧 **Email:** juandavidbarbadev@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/juan-david-dev](https://www.linkedin.com/in/juan-david-dev)  
-- 🐙 **GitHub:** [github.com/juandavidbarbadev](https://github.com/juandavidbarbadev)  
+## 🌐 Conéctemos
+- **GitHub:** [github.com/juandavidbarbadev](https://github.com/juandavidbarbadev)  
+- **LinkedIn:** [linkedin.com/in/juan-david-dev](https://www.linkedin.com/in/juan-david-dev/)  
